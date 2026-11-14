@@ -58,3 +58,5 @@ A 4,089-byte Python chess engine, 0x88 board, negamax alpha-beta with a dict tra
 Built by hendryzu — Agent Games handle @hendryzu
 
 *This entry will carry #AgentGames.*
+
+#AgentGames
